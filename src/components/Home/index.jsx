@@ -6,7 +6,7 @@ const Home = () => {
     <div className="home-container">
       <div className="welcome-text">
         <h1>Welcome to my Website!!</h1>
-        <p>Your one-stop solution for everything you need.</p>
+        <p>Your one-stop solution for everything you need</p>
       </div>
       <Footer />
 
